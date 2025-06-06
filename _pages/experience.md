@@ -10,9 +10,8 @@ redirect_from:
 <big> System Engineering Intern (May 2025 - Now)</big> 
 * Confidential for now
 
-# Qualcomm 
-## Senior Software Engineer, NR5G Modem RF Team 
-### Hyderabad, India (September 2018 - December 2023)
+# Qualcomm, India
+<big> Senior Software Engineer, NR5G Modem RF Team (September 2018 - December 2023) </big> 
 * Developed Feature requests for various OEM's across the globe.
 * Daily activities included 3GPP new features analysis and programming those from the modem side
 * Designed multiple network architectures and frameworks for various feature requests
