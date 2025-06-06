@@ -10,8 +10,9 @@ redirect_from:
 <big> System Engineering Intern (May 2025 - Now)</big> 
 * Confidential for now
 
-# Qualcomm, India
-<big> Senior Software Engineer, NR5G Modem RF Team (September 2018 - December 2023)</big> 
+# Qualcomm 
+## Senior Software Engineer, NR5G Modem RF Team 
+### Hyderabad, India (September 2018 - December 2023)
 * Developed Feature requests for various OEM's across the globe.
 * Daily activities included 3GPP new features analysis and programming those from the modem side
 * Designed multiple network architectures and frameworks for various feature requests
@@ -30,8 +31,7 @@ redirect_from:
 * Was awarded with 'Most Innovative Fresher' of the Quarter award, for formulating different code optimisation techniques across Carrier code.
 
 # IBT, Karlsruhe Institute of Technology, Karlsruhe, Germany
-<big> DAAD-WISE Scholar, Institut für Biomedizinische Technik, KIT 
-(May 2017 - July 2017) </big>
+<big> DAAD-WISE Scholar, Institut für Biomedizinische Technik, KIT (May 2017 - July 2017) </big>
 * Evaluation of methods for phase detection on ECG, EEG signals to predict heart, brain disorders well in time.
 <br> [KIT link of the project details](https://www.ibt.kit.edu/english/3827.php)
 * Worked under tutelage of [Prof. Dr. rer. nat. Olaf Dössel](https://www.ibt.kit.edu/english/doessel.php), <b>Head of the Institute</b> and
