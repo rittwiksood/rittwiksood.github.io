@@ -6,13 +6,17 @@ permalink: /workex/
 redirect_from:
   - /workexperience/
 ---
+# Eutelsat OneWeb, Virginia, US
+<big> System Engineering Intern (May 2025 - Now)</big> 
+* Confidential for now
+
 # Qualcomm, India
-<big> Senior Software Engineer, NR5G Modem RF Team (Sep'18 - Present)</big> 
-* Developing Feature requests for various OEM's across the globe.
-* Daily activities include 3GPP new features analysis and programming those from the modem side
+<big> Senior Software Engineer, NR5G Modem RF Team (Sep 2018 - Dec 2023)</big> 
+* Developed Feature requests for various OEM's across the globe.
+* Daily activities included 3GPP new features analysis and programming those from the modem side
 * Designed multiple network architectures and frameworks for various feature requests
-* Debugging customer issues and running test cases for the developed code, FTM mode, Online and PHY cases.
-* Make design documents for the new asks
+* Debugged customer issues and running test cases for the developed code, FTM mode, Online and PHY cases.
+* Made design documents for the new asks
 * Some of the features, I have worked single-handedly includes ENDC (LTE+NR NSA), NRDC (FR1+FR2, FR1+FR1) and MPE (Maximum Polarisation Exposure).
 * Got applauded by the CEO of Qualcomm, and the work was presented at (Mobile World Congress) MWC 2021, Barcelona. 
 * Catch the [CEO's address here](https://www.qualcomm.com/company/events/mwc-barcelona) to MWC Barcelona 2021.
@@ -21,12 +25,12 @@ redirect_from:
 
 
 # Carrier, India 
-<big> Associate Embedded Enginner, HVAC Systems (Jul'18 - Sep'18)</big> 
+<big> Associate Embedded Enginner, HVAC Systems (July 2018 - September 2018)</big> 
 * Worked on programming HVAC solutions, primarily focusing on air Conditioning part, of the Carrier HVAC systems.
 * Was awarded with 'Most Innovative Fresher' of the Quarter award, for formulating different code optimisation techniques across Carrier code.
 
 # IBT, Karlsruhe Institute of Technology, Karlsruhe, Germany
-<big> DAAD-WISE Scholar, Institut für Biomedizinische Technik, KIT (May'17 - Jul'17) </big>
+<big> DAAD-WISE Scholar, Institut für Biomedizinische Technik, KIT (May 2017 - July 2017) </big>
 * Evaluation of methods for phase detection on ECG, EEG signals to predict heart, brain disorders well in time.
 <br> [KIT link of the project details](https://www.ibt.kit.edu/english/3827.php)
 * Worked under tutelage of [Prof. Dr. rer. nat. Olaf Dössel](https://www.ibt.kit.edu/english/doessel.php), <b>Head of the Institute</b> and
@@ -35,7 +39,7 @@ redirect_from:
 * <i>DAAD-WISE scholarship is provided to top 150 merititious students across the country.</i>
 
 # Indian Institute of Technology Delhi (IIT Delhi)
-<big> Indian Academy of Sciences Research Fellow (May'16 - Jul'16)</big>
+<big> Indian Academy of Sciences Research Fellow (May 2016 - July 2016)</big>
 * Worked on Wireless Embedded systems. Made a project titled 'Tourist Assistance system', to help geo-locate the tourists in absence of Mobile communication.
 * Worked with Prof. Subrat Kar, EE Deptt, IIT Delhi.
 * [GIPEDI Scholar](http://gipedi.iitd.ac.in/)
