@@ -9,4 +9,4 @@ redirect_from:
 
 # 1. Analyzing Reliability in Molecular Communication
  Took molecules of different types to alter bits per symbol and changed diffusion coefficients. Added MAC encapsulations to reduce the probability of error establishing more reliable channel.
- [Link](https://github.com/rittwiksood/rittwiksood.github.io/blob/master/files/ECE547_Project.pdf)
+ [Link](https://rittwiksood.github.io/files/ECE547_Project.pdf)
