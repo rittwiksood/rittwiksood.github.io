@@ -12,5 +12,8 @@ redirect_from:
  [Link](https://rittwiksood.github.io/files/ECE547_Project.pdf)
 
  # 2. Sparse Channel Estimation for Massive MIMO with Compressed Sensing via Convex Optimization
+ 
  # 3. Real Time Smart Honking System
+ 
  # 4. Modelising Wireless Channel at Purdue University 
+
