@@ -7,8 +7,10 @@ redirect_from:
   - /workexperience/
 ---
 # Eutelsat OneWeb, Virginia, US
-<big> System Engineering Intern (May 2025 - Now)</big> 
-* Confidential for now
+<big> System Engineering Intern (May 2025 - Aug 2025)</big> 
+* Architected next-gen NTN system design for a LEO satellite network, creating an in-house modem chip emulation environment that cut development cycles by 25% and accelerated prototype readiness by atleast 20%
+* Designed 3GPP-compliant NTN architecture on 5G NR and implemented firmware and software stacks to emulate NXP LA1235 & LS1046 modem chips, enhancing simulation fidelity and reducing integration bottlenecks.
+* Led cross-functional development of in-house software environment, accelerating time-to-market by 35%.
 
 # Qualcomm, India
 <big> Senior Software Engineer, NR5G Modem RF Team (September 2018 - December 2023) </big> 
