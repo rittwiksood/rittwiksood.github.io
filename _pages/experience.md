@@ -37,7 +37,7 @@ redirect_from:
 <br> [KIT link of the project details](https://www.ibt.kit.edu/english/3827.php)
 * Worked under tutelage of [Prof. Dr. rer. nat. Olaf Dössel](https://www.ibt.kit.edu/english/doessel.php), <b>Head of the Institute</b> and
 <br> [Dr.-Ing. Nicolas Pilia](https://www.ibt.kit.edu/english/Pilia_Nicolas.php), IBT KIT.
-* [My time at KIT](https://www.ibt.kit.edu/english/Sood_Rittwik.php)
+* [My time at KIT](https://www.ibt.kit.edu/english/Sood_Rittwik.php)  [Thesis](https://rittwiksood.github.io/files/KIT_Thesis.pdf )
 * <i>DAAD-WISE scholarship is provided to top 150 merititious students across the country.</i>
 
 # Indian Institute of Technology Delhi (IIT Delhi)
